@@ -25,7 +25,7 @@ This project allows you to scrape multiple websites, index their content, and th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-with-website-using-rag-pipeline.git
+   git clone https://github.com/bunnyrajender55/-Chat-with-Website-Using-RAG-Pipeline.git
    cd chat-with-website-using-rag-pipeline
 Install the required dependencies:
 
